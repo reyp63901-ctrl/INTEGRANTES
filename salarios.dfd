@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+24
+'Ingrese salario basico'
+5
+1
+14
+salario_basico
+4
+1
+24
+'Ingrese salario minimo'
+5
+1
+14
+salario_minimo
+6
+2
+8
+prestamo
+19
+salario_basico*0.25
+12
+salario_neto
+23
+salario_basico-prestamo
+7
+0
+1
+47
+salario_neto > salario_minimo=salario_basico >0
+4
+1
+38
+'no cumples las condiones del salario'
+13
+4
+1
+39
+'ganas mas del minimo y salario valido'
+13
+4
+1
+16
+'Muchas gracias'
+1
